@@ -1,3 +1,5 @@
+#define ESP8266_LED 5
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(ESP8266_LED, OUTPUT);
